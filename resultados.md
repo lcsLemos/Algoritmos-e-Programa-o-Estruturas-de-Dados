@@ -1,5 +1,5 @@
 1. Introdução
-Este relatório apresenta a análise comparativa de desempenho entre diferentes algoritmos de ordenação, conforme solicitado no Trabalho 2 da disciplina de Estruturas de Dados.
+Este relatório apresenta a análise comparativa de desempenho entre diferentes algoritmos de ordenação, conforme solicitado no Trabalho 2 da disciplina de Estruturas de Dados
 
 2. Metodologia de Medição e Tratamento Estatístico
 Para cada combinação de cenário, algoritmo e tamanho de array (n), foram realizadas 10 execuções independentes. O tratamento estatístico seguiu as etapas abaixo:
@@ -15,9 +15,9 @@ Para 10 execuções, com tempos: 15400, 11200, 280100, 60500, 38100, 54400, 4050
 2. Variância: 8596634285,71
 3. Desvio Padrão: 92718,04
 
-   Intervalo de tolerância: 17554,23
-   Valores aceitos: 15400, 11200, 60500, 38100, 54400, 40500.
-   Média Final: 36683,33 ns.
+   Intervalo de tolerância: -21260,90 a 164175,18
+   Valores aceitos: 15400, 11200, 60500, 38100, 54400, 40500
+   Média Final: 36683,33 ns
 
 ------------------------------------------------------------------------------------------------------------------
 
